@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 branch main
 git
+=======
+sei la
+codigo4
+>>>>>>> b80063a05dd63632fceb4dba5470213b465690ad
